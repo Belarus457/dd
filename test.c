@@ -4,5 +4,5 @@ int main() {
 
 	printf("asdf");
 
-	prinf("merge");
+	prinf("mergeasfasfasf");
 }
