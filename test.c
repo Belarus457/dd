@@ -5,4 +5,7 @@ int main() {
 	printf("asdf");
 
 	prinf("mergeasfasfasf");
+
+
+	printf("abcd");
 }
