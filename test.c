@@ -2,10 +2,6 @@
 
 int main() {
 
-	printf("asdf");
 
-	prinf("merge");
-
-
-	printf("def");
+	printf("last");
 }
